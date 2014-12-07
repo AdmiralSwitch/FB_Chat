@@ -5,23 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Learning how to make a chat window with FB-Oauth. I wouldn't reccomend cloning this repo. You'd probably be better off building one yourself.
 
 
 Please feel free to use a different markup language if you do not plan to run
